@@ -1,0 +1,5 @@
+Pruebas (Sólo con usuario DEMO):
+http://www.fel.mx/ConexionRemota33PREPROD/ConexionRemota.svc?WSDL
+
+Productiva:
+https://www.fel.mx/CR33/ConexionRemota.svc?WSDL
