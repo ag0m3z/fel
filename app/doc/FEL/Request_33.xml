@@ -1,4 +1,4 @@
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/" xmlns:tes="http://schemas.datacontract.org/2004/07/TES.V33.CFDI.Negocios">
+<?xml version="1.0" ?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/" xmlns:tes="http://schemas.datacontract.org/2004/07/TES.V33.CFDI.Negocios">
    <soapenv:Header/>
    <soapenv:Body>
       <tem:GenerarCFDI>
